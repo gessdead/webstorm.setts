@@ -4,7 +4,6 @@
       <mapping ext="php" type="HTML" />
       <mapping pattern=".settings.php" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
