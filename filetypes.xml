@@ -3,7 +3,10 @@
     <extensionMap>
       <mapping ext="php" type="HTML" />
       <mapping pattern=".settings.php" type="PLAIN_TEXT" />
+      <mapping pattern="file6ZaZ2R" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="inc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
