@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="@s" value="@include span($VAR$);" description="include span" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
