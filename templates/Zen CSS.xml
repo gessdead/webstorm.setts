@@ -5,4 +5,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="@g" value="@include gutter($VAR$)" description="include gutter" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
