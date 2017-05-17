@@ -17,4 +17,28 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="@mmd" value="@media #{$medium-up} {&#10;    $VAR$&#10;}" description="medium-up" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mbg" value="@media #{$big-up} {&#10;    $VAR$&#10;}" description="big-up" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mlg" value="@media #{$large-up} {&#10;    $VAR$&#10;}" description="large-up" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mxlg" value="@media #{$xlarge-up} {&#10;    $VAR$&#10;}" description="xlarge-up" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
