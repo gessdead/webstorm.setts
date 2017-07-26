@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ShowUmlDiagram" />
+      <action id="Arrangement.Custom.Token.Rule.Edit" />
+    </abbreviations>
+  </component>
+</application>
