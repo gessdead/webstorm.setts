@@ -5,21 +5,16 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.t</mask>
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
       <mask>*.jade</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.sc</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*</mask>
@@ -30,8 +25,14 @@
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
+      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
