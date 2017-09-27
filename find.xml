@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.xml</mask>
@@ -27,8 +27,6 @@
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -37,6 +35,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
