@@ -17,12 +17,10 @@
       <mask>*.tpl</mask>
       <mask>*.jsp</mask>
       <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*</mask>
       <mask>p</mask>
       <mask>ph</mask>
       <mask>php</mask>
-      <mask>*.php</mask>
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
@@ -35,9 +33,11 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.jad</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.jad</mask>
       <mask>*.jade</mask>
     </recentFileMasks>
   </component>
