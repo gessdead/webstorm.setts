@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jade" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -16,7 +16,6 @@
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
       <mask>*.jsp</mask>
-      <mask>*.p</mask>
       <mask>*</mask>
       <mask>p</mask>
       <mask>ph</mask>
@@ -35,10 +34,11 @@
       <mask>*.scss</mask>
       <mask>*.jad</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jade</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
