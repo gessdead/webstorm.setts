@@ -9,35 +9,35 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.tp</mask>
-      <mask>*.tpl</mask>
-      <mask>*.jsp</mask>
-      <mask>*</mask>
       <mask>p</mask>
       <mask>ph</mask>
       <mask>php</mask>
-      <mask>*.зрз</mask>
-      <mask>*.зр</mask>
-      <mask>*.з</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.jad</mask>
-      <mask>*.ph</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jade</mask>
-      <mask>*.p</mask>
       <mask>*j</mask>
       <mask>*ja</mask>
       <mask>*jad</mask>
       <mask>*jade</mask>
+      <mask>*.офву</mask>
+      <mask>*.офв</mask>
+      <mask>*.оф</mask>
+      <mask>*.о</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
+      <mask>*.зрз</mask>
+      <mask>*.зр</mask>
+      <mask>*.з</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
