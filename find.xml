@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jade" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,11 +24,11 @@
       <mask>*.scss</mask>
       <mask>*.ph</mask>
       <mask>*.phph</mask>
-      <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jad</mask>
       <mask>*.jade</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
