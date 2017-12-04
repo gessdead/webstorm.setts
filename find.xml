@@ -25,9 +25,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.sc</mask>
+      <mask>*.jad</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.jad</mask>
       <mask>*.jade</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
