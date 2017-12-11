@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,13 +27,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.sc</mask>
-      <mask>*.jad</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jade</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
