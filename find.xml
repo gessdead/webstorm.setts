@@ -22,14 +22,14 @@
       <mask>ыс</mask>
       <mask>ы</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jad</mask>
-      <mask>*.jade</mask>
       <mask>*.ысыы</mask>
       <mask>*.ысы</mask>
       <mask>*.ыс</mask>
       <mask>*.ы</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jade</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
