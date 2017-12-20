@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="php" type="PHP" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
+      <mapping pattern="mobile" type="PLAIN_TEXT" />
       <mapping pattern=".settings.php" type="PLAIN_TEXT" />
       <mapping ext="phar" type="PLAIN_TEXT" />
     </extensionMap>
