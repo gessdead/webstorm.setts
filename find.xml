@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*scss" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.jadde</mask>
       <mask>*.jadd</mask>
@@ -26,9 +22,6 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jade</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.сыы</mask>
       <mask>*.сы</mask>
       <mask>*.с</mask>
@@ -37,6 +30,13 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*s</mask>
+      <mask>*scsc</mask>
+      <mask>*scs</mask>
+      <mask>*scss</mask>
     </recentFileMasks>
   </component>
 </application>
