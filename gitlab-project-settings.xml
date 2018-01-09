@@ -1,0 +1,1072 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.kelnik.pro/" />
+    <option name="token" value="CV2UDukbAdZysy4h5-D8" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/2017.git" />
+          <option name="name" value="2017" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/2017.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/5st.git" />
+          <option name="name" value="5st" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/5st.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/aktis.kelnik.pro.git" />
+          <option name="name" value="aktis.kelnik.pro" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/aktis.kelnik.pro.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/anketasamolet.git" />
+          <option name="name" value="anketasamolet" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/anketasamolet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/ansible.git" />
+          <option name="name" value="ansible" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/ansible.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/aprel.git" />
+          <option name="name" value="aprel" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/aprel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/arsenal.git" />
+          <option name="name" value="arsenal" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/arsenal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/astrid.git" />
+          <option name="name" value="astrid" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/astrid.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/b2b.git" />
+          <option name="name" value="b2b" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/b2b.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/barbaris.git" />
+          <option name="name" value="barbaris" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/barbaris.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/bpearl.git" />
+          <option name="name" value="bpearl" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/bpearl.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/calc.git" />
+          <option name="name" value="calc" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/calc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/carat.git" />
+          <option name="name" value="carat" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/carat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/carat-touch.git" />
+          <option name="name" value="carat-touch" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/carat-touch.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/cardan.git" />
+          <option name="name" value="cardan" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/cardan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/central.git" />
+          <option name="name" value="central" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/central.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/de.git" />
+          <option name="name" value="de" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/de.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/demohouse.git" />
+          <option name="name" value="demohouse" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/demohouse.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/devhouse.git" />
+          <option name="name" value="devhouse" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/devhouse.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/domvgovorovo25.git" />
+          <option name="name" value="domvgovorovo25" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/domvgovorovo25.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/etagi.git" />
+          <option name="name" value="etagi" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/etagi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/etalon-invest.git" />
+          <option name="name" value="etalon-invest" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/etalon-invest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/evisa.git" />
+          <option name="name" value="evisa" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/evisa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/festival.git" />
+          <option name="name" value="festival" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/festival.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/four-season.git" />
+          <option name="name" value="four-season" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/four-season.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/galaktika.git" />
+          <option name="name" value="galaktika" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/galaktika.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/gk-mic.git" />
+          <option name="name" value="gk-mic" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/gk-mic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/himki.git" />
+          <option name="name" value="himki" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/himki.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/kelnik.com.git" />
+          <option name="name" value="kelnik.com" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/kelnik.com.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/kirpichnik.git" />
+          <option name="name" value="kirpichnik" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/kirpichnik.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/kraski-zhizni.git" />
+          <option name="name" value="kraski-zhizni" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/kraski-zhizni.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/kruglov.git" />
+          <option name="name" value="kruglov" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/kruglov.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/land1.git" />
+          <option name="name" value="land1" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/land1.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/land2.git" />
+          <option name="name" value="land2" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/land2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/landyshi.git" />
+          <option name="name" value="landyshi" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/landyshi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lanskoy.git" />
+          <option name="name" value="lanskoy" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lanskoy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lenspecsmu.git" />
+          <option name="name" value="lenspecsmu" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lenspecsmu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lenspecsmu.old.git" />
+          <option name="name" value="lenspecsmu.old" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lenspecsmu.old.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/level.git" />
+          <option name="name" value="level" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/level.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/live.git" />
+          <option name="name" value="live" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/live.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr.git" />
+          <option name="name" value="lsr" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr-4.git" />
+          <option name="name" value="lsr-4" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr-4.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr-main.git" />
+          <option name="name" value="lsr-main" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr-main.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr-new.git" />
+          <option name="name" value="lsr-new" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr-new.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr-new-front.git" />
+          <option name="name" value="lsr-new-front" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr-new-front.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr214.git" />
+          <option name="name" value="lsr214" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr214.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lsr_ru.git" />
+          <option name="name" value="lsr_ru" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lsr_ru.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lssmu.git" />
+          <option name="name" value="lssmu" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lssmu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lssmy.git" />
+          <option name="name" value="lssmy" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lssmy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lst.git" />
+          <option name="name" value="lst" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lst.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lst-pop.git" />
+          <option name="name" value="lst-pop" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lst-pop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lubercy.git" />
+          <option name="name" value="lubercy" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lubercy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/lubertcy2017.git" />
+          <option name="name" value="lubertcy2017" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/lubertcy2017.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/medi.git" />
+          <option name="name" value="medi" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/medi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/mezon-plaza.git" />
+          <option name="name" value="mezon-plaza" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/mezon-plaza.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/murino.git" />
+          <option name="name" value="murino" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/murino.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/navis.git" />
+          <option name="name" value="navis" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/navis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/navis-landing.git" />
+          <option name="name" value="navis-landing" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/navis-landing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/nevahaus.git" />
+          <option name="name" value="nevahaus" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/nevahaus.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/nevahaus-front.git" />
+          <option name="name" value="nevahaus-front" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/nevahaus-front.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/new-navis.git" />
+          <option name="name" value="new-navis" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/new-navis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/newligovskiy.git" />
+          <option name="name" value="newligovskiy" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/newligovskiy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/newsg.git" />
+          <option name="name" value="newsg" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/newsg.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/newton.git" />
+          <option name="name" value="newton" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/newton.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/newzelenograd.git" />
+          <option name="name" value="newzelenograd" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/newzelenograd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/obruchevyh.git" />
+          <option name="name" value="obruchevyh" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/obruchevyh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/october.git" />
+          <option name="name" value="october" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/october.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/ohta.git" />
+          <option name="name" value="ohta" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/ohta.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/ozhogino.git" />
+          <option name="name" value="ozhogino" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/ozhogino.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/palladio.git" />
+          <option name="name" value="palladio" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/palladio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/parktown.git" />
+          <option name="name" value="parktown" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/parktown.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/petropol.git" />
+          <option name="name" value="petropol" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/petropol.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/planoplan.git" />
+          <option name="name" value="planoplan" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/planoplan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/pragma.git" />
+          <option name="name" value="pragma" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/pragma.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/prigorod.git" />
+          <option name="name" value="prigorod" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/prigorod.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/prigorod.lesnoe.git" />
+          <option name="name" value="prigorod.lesnoe" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/prigorod.lesnoe.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/prigorod20.git" />
+          <option name="name" value="prigorod20" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/prigorod20.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/prototype.git" />
+          <option name="name" value="prototype" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/prototype.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/rapex.git" />
+          <option name="name" value="rapex" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/rapex.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/rbi.git" />
+          <option name="name" value="rbi" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/rbi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/rbi-bitrix.git" />
+          <option name="name" value="rbi-bitrix" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/rbi-bitrix.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/rbi-dev.git" />
+          <option name="name" value="rbi-dev" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/rbi-dev.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/royalpark.git" />
+          <option name="name" value="royalpark" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/royalpark.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/royalpark2.git" />
+          <option name="name" value="royalpark2" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/royalpark2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/ryadi.git" />
+          <option name="name" value="ryadi" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/ryadi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/salonshik.git" />
+          <option name="name" value="salonshik" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/salonshik.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sevgorod.git" />
+          <option name="name" value="sevgorod" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sevgorod.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sevgorod-rbi.git" />
+          <option name="name" value="sevgorod-rbi" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sevgorod-rbi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sg-landing.git" />
+          <option name="name" value="sg-landing" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sg-landing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sheglovskaya.git" />
+          <option name="name" value="sheglovskaya" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sheglovskaya.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/shick.git" />
+          <option name="name" value="shick" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/shick.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sidak.git" />
+          <option name="name" value="sidak" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sidak.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sitebeat.git" />
+          <option name="name" value="sitebeat" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sitebeat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/smd.git" />
+          <option name="name" value="smd" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/smd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/spasibo.git" />
+          <option name="name" value="spasibo" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/spasibo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sputnik.git" />
+          <option name="name" value="sputnik" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sputnik.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/sputniksamolet.git" />
+          <option name="name" value="sputniksamolet" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/sputniksamolet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/stereos.git" />
+          <option name="name" value="stereos" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/stereos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/stereos-landing.git" />
+          <option name="name" value="stereos-landing" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/stereos-landing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/stroytrest.git" />
+          <option name="name" value="stroytrest" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/stroytrest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/svetlanovsky.git" />
+          <option name="name" value="svetlanovsky" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/svetlanovsky.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/telegram.git" />
+          <option name="name" value="telegram" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/telegram.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/tomilino-fz214.git" />
+          <option name="name" value="tomilino-fz214" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/tomilino-fz214.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/tomilino20.git" />
+          <option name="name" value="tomilino20" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/tomilino20.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/tveda-adaptive.git" />
+          <option name="name" value="tveda-adaptive" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/tveda-adaptive.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/tveda-premium.git" />
+          <option name="name" value="tveda-premium" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/tveda-premium.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/ursa-scandic.git" />
+          <option name="name" value="ursa-scandic" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/ursa-scandic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/valo.git" />
+          <option name="name" value="valo" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/valo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vatutinki.git" />
+          <option name="name" value="vatutinki" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vatutinki.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vavilovdom.git" />
+          <option name="name" value="vavilovdom" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vavilovdom.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vavilovdom-sait.git" />
+          <option name="name" value="vavilovdom-sait" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vavilovdom-sait.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vienna.git" />
+          <option name="name" value="vienna" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vienna.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vnukovo.git" />
+          <option name="name" value="vnukovo" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vnukovo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vnukovo2017.git" />
+          <option name="name" value="vnukovo2017" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vnukovo2017.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/vnukovosamolet.git" />
+          <option name="name" value="vnukovosamolet" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/vnukovosamolet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/voenipoteka.git" />
+          <option name="name" value="voenipoteka" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/voenipoteka.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/yitagent.git" />
+          <option name="name" value="yitagent" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/yitagent.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/yitservice.git" />
+          <option name="name" value="yitservice" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/yitservice.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/yitsmolmy.git" />
+          <option name="name" value="yitsmolmy" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/yitsmolmy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/zanevsky.git" />
+          <option name="name" value="zanevsky" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/zanevsky.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/zelenograd.git" />
+          <option name="name" value="zelenograd" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/zelenograd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/dev/zoom.git" />
+          <option name="name" value="zoom" />
+          <option name="namespace" value="dev" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:dev/zoom.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.bitrix.git" />
+          <option name="name" value="kelnik.bitrix" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.bitrix.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.boilerplate.git" />
+          <option name="name" value="kelnik.boilerplate" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.boilerplate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.boilerplate-fz214.git" />
+          <option name="name" value="kelnik.boilerplate-fz214" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.boilerplate-fz214.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.composer.plugin.git" />
+          <option name="name" value="kelnik.composer.plugin" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.composer.plugin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.exportfeed.git" />
+          <option name="name" value="kelnik.exportfeed" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.exportfeed.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.admin_helper.git" />
+          <option name="name" value="kelnik.module.admin_helper" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.admin_helper.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.api.git" />
+          <option name="name" value="kelnik.module.api" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.area.git" />
+          <option name="name" value="kelnik.module.area" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.area.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.contacts.git" />
+          <option name="name" value="kelnik.module.contacts" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.contacts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.estate.copier.git" />
+          <option name="name" value="kelnik.module.copier" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.estate.copier.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.declarations.git" />
+          <option name="name" value="kelnik.module.declarations" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.declarations.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.documents.git" />
+          <option name="name" value="kelnik.module.documents" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.documents.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.entitylog.git" />
+          <option name="name" value="kelnik.module.entitylog" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.entitylog.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.estate.git" />
+          <option name="name" value="kelnik.module.estate" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.estate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.exportfeed.git" />
+          <option name="name" value="kelnik.module.exportfeed" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.exportfeed.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.favorite.git" />
+          <option name="name" value="kelnik.module.favorite" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.favorite.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.gallery.git" />
+          <option name="name" value="kelnik.module.gallery" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.gallery.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.imageresizer.git" />
+          <option name="name" value="kelnik.module.imageresizer" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.imageresizer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.import.git" />
+          <option name="name" value="kelnik.module.import" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.import.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.importplans.git" />
+          <option name="name" value="kelnik.module.importplans" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.importplans.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.infrastructure.git" />
+          <option name="name" value="kelnik.module.infrastructure" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.infrastructure.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.mortgage.git" />
+          <option name="name" value="kelnik.module.mortgage" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.mortgage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.multisites.git" />
+          <option name="name" value="kelnik.module.multisites" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.multisites.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.news.git" />
+          <option name="name" value="kelnik.module.news" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.news.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.objblocks.git" />
+          <option name="name" value="kelnik.module.objblocks" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.objblocks.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.progress.git" />
+          <option name="name" value="kelnik.module.progress" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.progress.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.requests.git" />
+          <option name="name" value="kelnik.module.requests" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.requests.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.search.git" />
+          <option name="name" value="kelnik.module.search" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.search.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.selector.git" />
+          <option name="name" value="kelnik.module.selector" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.selector.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.seo.git" />
+          <option name="name" value="kelnik.module.seo" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.seo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.text.git" />
+          <option name="name" value="kelnik.module.text" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.text.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.module.tools.git" />
+          <option name="name" value="kelnik.module.tools" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.module.tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/estate/kelnik.repositories.git" />
+          <option name="name" value="kelnik.repositories" />
+          <option name="namespace" value="estate" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:estate/kelnik.repositories.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/frontend/kelnik.gallery.git" />
+          <option name="name" value="kelnik.gallery" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:frontend/kelnik.gallery.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/frontend/kelnik.mediator.git" />
+          <option name="name" value="kelnik.mediator" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:frontend/kelnik.mediator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/frontend/kelnik.popup.git" />
+          <option name="name" value="kelnik.popup" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:frontend/kelnik.popup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/frontend/test-deploy.git" />
+          <option name="name" value="test-deploy" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:frontend/test-deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/boilerplate.git" />
+          <option name="name" value="boilerplate" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/boilerplate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/box-aprel.git" />
+          <option name="name" value="box-aprel" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/box-aprel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/box-live.git" />
+          <option name="name" value="box-live" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/box-live.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/cms.git" />
+          <option name="name" value="cms" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/cms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/demo-box.git" />
+          <option name="name" value="demo-box" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/demo-box.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/deploy.git" />
+          <option name="name" value="deploy" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/deployer.git" />
+          <option name="name" value="deployer" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/deployer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/house.git" />
+          <option name="name" value="house" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/house.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/kelnik.git" />
+          <option name="name" value="kelnik" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/kelnik.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/kelnik.pdftest.git" />
+          <option name="name" value="kelnik.pdftest" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/kelnik.pdftest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/krpano.git" />
+          <option name="name" value="krpano" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/krpano.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/learn.git" />
+          <option name="name" value="learn" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/learn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/mask-scan.git" />
+          <option name="name" value="mask-scan" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/mask-scan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/internal/redmine-custom-export.git" />
+          <option name="name" value="redmine-custom-export" />
+          <option name="namespace" value="internal" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:internal/redmine-custom-export.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/support/rbi-new.git" />
+          <option name="name" value="rbi-new" />
+          <option name="namespace" value="support" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:support/rbi-new.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/support/rbi-polls.git" />
+          <option name="name" value="rbi-polls" />
+          <option name="namespace" value="support" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:support/rbi-polls.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/support/sunday.git" />
+          <option name="name" value="sunday" />
+          <option name="namespace" value="support" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:support/sunday.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.kelnik.pro/support/tveda.git" />
+          <option name="name" value="tveda" />
+          <option name="namespace" value="support" />
+          <option name="sshUrl" value="git@gitlab.kelnik.pro:support/tveda.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
