@@ -27,7 +27,6 @@
       <mask>*.scs</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*s</mask>
       <mask>*scsc</mask>
       <mask>*scs</mask>
@@ -36,6 +35,7 @@
       <mask>*scss</mask>
       <mask>*.js</mask>
       <mask>*.jade</mask>
+      <mask>*.php</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
