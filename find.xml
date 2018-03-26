@@ -6,37 +6,15 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
-    <recentFileMasks>
-      <mask>*.phph</mask>
-      <mask>ыс</mask>
-      <mask>ы</mask>
-      <mask>*</mask>
-      <mask>*.jad</mask>
-      <mask>*.ысыы</mask>
-      <mask>*.ысы</mask>
-      <mask>*.ыс</mask>
-      <mask>*.ы</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.сыы</mask>
-      <mask>*.сы</mask>
-      <mask>*.с</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*s</mask>
-      <mask>*scsc</mask>
-      <mask>*scs</mask>
-      <mask>*jade</mask>
-      <mask>*js</mask>
-      <mask>*scss</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.jade</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
