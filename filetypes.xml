@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="php" type="PHP" />
+      <mapping pattern="mobile" type="PLAIN_TEXT" />
+      <mapping pattern="_separator.jade" type="PLAIN_TEXT" />
+      <mapping pattern="pre-push" type="PLAIN_TEXT" />
+      <mapping pattern=".settings.php" type="PLAIN_TEXT" />
+      <mapping ext="phar" type="PLAIN_TEXT" />
+      <mapping ext="scs" type="SCSS" />
+    </extensionMap>
+  </component>
+</application>
