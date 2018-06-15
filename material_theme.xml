@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.0.3-2018.1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isMaterialDesign" value="false" />
@@ -13,5 +13,7 @@
     <option name="accentScrollbars" value="false" />
     <option name="useMaterialFont" value="false" />
     <option name="upperCaseButtons" value="false" />
+    <option name="userId" value="-11c5d6ac:163f8a0ef72:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
