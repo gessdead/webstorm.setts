@@ -15,8 +15,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.jade</mask>
     <mask>*.php</mask>
+    <mask>*.jade</mask>
     <mask>*.scss</mask>
   </component>
 </application>
