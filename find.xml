@@ -18,6 +18,7 @@
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.jade</mask>
+    <mask>*.jade, *</mask>
     <mask>*.jade, *.hbs</mask>
   </component>
 </application>
