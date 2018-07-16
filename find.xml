@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.jade, *.hbs, *.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +19,7 @@
     <mask>*.jade</mask>
     <mask>*.jade, *</mask>
     <mask>*.jade, *.hbs</mask>
-    <mask>*.jade, *.hbs, *.js</mask>
     <mask>*.scss</mask>
+    <mask>*.jade, *.hbs, *.js</mask>
   </component>
 </application>
