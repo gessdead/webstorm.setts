@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="version" value="2.7.0" />
+    <option name="selectedTheme" value="ARC_DARK" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="80cbc4" />
     <option name="useMaterialIcons" value="false" />
@@ -10,10 +11,12 @@
     <option name="statusBarTheme" value="false" />
     <option name="isMaterialTheme" value="false" />
     <option name="themedScrollbars" value="false" />
+    <option name="isCompactTables" value="true" />
     <option name="accentScrollbars" value="false" />
     <option name="useMaterialFont" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="userId" value="-11c5d6ac:163f8a0ef72:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
