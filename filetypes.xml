@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="docs-history" type="Jade" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="mobile" type="PLAIN_TEXT" />
       <mapping pattern="_separator.jade" type="PLAIN_TEXT" />
