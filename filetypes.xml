@@ -9,6 +9,7 @@
       <mapping pattern=".settings.php" type="PLAIN_TEXT" />
       <mapping ext="phar" type="PLAIN_TEXT" />
       <mapping ext="cur" type="PLAIN_TEXT" />
+      <mapping ext="sccss" type="SCSS" />
       <mapping ext="scs" type="SCSS" />
     </extensionMap>
   </component>
