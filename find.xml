@@ -19,9 +19,9 @@
     <mask>*.jade, *.hbs</mask>
     <mask>*.jade, *.hbs, *.js</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.hbs</mask>
     <mask>*.jade</mask>
+    <mask>*.js</mask>
     <mask>*.scss</mask>
   </component>
 </application>
