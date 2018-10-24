@@ -47,4 +47,46 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="@mtp" value="@media #{$tablet-portrait} {&#10;    $VAR$&#10;}" description="tablet-portrait" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mtl" value="@media #{$tablet-landscape} {&#10;    $VAR$&#10;}" description="tablet-landscape" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@ml" value="@media #{$laptop} {&#10;    $VAR$&#10;}" description="laptop" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mlw" value="@media #{$laptop-wide} {&#10;    $VAR$&#10;}" description="laptop-wide" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mm" value="@media #{$mobile} {&#10;    $VAR$&#10;}" description="mobile" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mfh" value="@media #{$fullhd} {&#10;    $VAR$&#10;}" description="fullhd" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mu" value="@media #{$ultra} {&#10;    $VAR$&#10;}" description="ultra" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
