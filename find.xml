@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Test Files" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +22,7 @@
     <mask>*.hbs</mask>
     <mask>*.twig</mask>
     <mask>*.jade</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
