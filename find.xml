@@ -20,9 +20,9 @@
     <mask>*.jade, *.hbs, *.js</mask>
     <mask>*.php</mask>
     <mask>*.hbs</mask>
-    <mask>*.twig</mask>
     <mask>*.jade</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
     <mask>*.scss</mask>
   </component>
 </application>
