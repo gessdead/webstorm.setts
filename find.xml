@@ -3,9 +3,11 @@
     <option name="customScope" value="Project Test Files" />
     <option name="defaultScopeName" value="Project Test Files" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Test Files" />
-    <option name="FILE_MASK" value="*.hbs" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +22,9 @@
     <mask>*.jade, *.hbs, *.js</mask>
     <mask>*.php</mask>
     <mask>*.jade</mask>
-    <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.hbs</mask>
+    <mask>*.js</mask>
+    <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
