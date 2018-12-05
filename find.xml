@@ -17,12 +17,12 @@
     <mask>*.jade, *</mask>
     <mask>*.jade, *.hbs</mask>
     <mask>*.jade, *.hbs, *.js</mask>
-    <mask>*.php</mask>
     <mask>*.jade</mask>
     <mask>*.hbs</mask>
     <mask>*.twig</mask>
     <mask>*.svg</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.scss</mask>
   </component>
 </application>
