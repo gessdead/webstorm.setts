@@ -19,6 +19,7 @@
     <mask>*.hbs</mask>
     <mask>*.twig</mask>
     <mask>*.svg</mask>
+    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
