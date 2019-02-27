@@ -19,8 +19,8 @@
     <mask>*.hbs</mask>
     <mask>*.twig</mask>
     <mask>*.svg</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
   </component>
