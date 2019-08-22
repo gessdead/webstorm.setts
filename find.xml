@@ -21,8 +21,8 @@
     <mask>*.svg</mask>
     <mask>*.</mask>
     <mask>*. htm</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
