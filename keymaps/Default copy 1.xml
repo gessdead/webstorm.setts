@@ -7,6 +7,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
   <action id="Github.Create.Pull.Request">
-    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
   </action>
 </keymap>
