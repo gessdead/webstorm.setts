@@ -1,0 +1,19 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="/resource/assets/js/**/*.js{!lib}" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.andersenlab.com/" />
+          <option name="name" value="andersenlab" />
+          <option name="login" value="gskripak" />
+          <password>dfc1dfd8dfd3dfdadfdedfc5df93df9b</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
