@@ -2,6 +2,9 @@
   <JSCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </ScssCodeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
