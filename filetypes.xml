@@ -4,6 +4,7 @@
       <mapping ext="php" type="HTML" />
       <removed_mapping ext="htm" approved="true" type="HTML" />
       <mapping pattern="*.template.htm" type="Handlebars/Mustache" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
