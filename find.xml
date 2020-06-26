@@ -24,5 +24,6 @@
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.pug</mask>
   </component>
 </application>
