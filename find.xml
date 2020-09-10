@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,6 @@
     <mask>*.jade, *.hbs, *.js</mask>
     <mask>*.jade</mask>
     <mask>*.hbs</mask>
-    <mask>*.twig</mask>
     <mask>*.svg</mask>
     <mask>*.</mask>
     <mask>*. htm</mask>
@@ -27,5 +27,6 @@
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
