@@ -9,9 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="5ece1a9a-c912-45a4-945d-816d252962a0" version="2020.2.135" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-01T08:34:42.706455Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
