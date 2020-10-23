@@ -22,10 +22,10 @@
     <mask>*.</mask>
     <mask>*. htm</mask>
     <mask>*.pug</mask>
-    <mask>*.php</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.php</mask>
+    <mask>*.php</mask>
     <mask>*.twig</mask>
   </component>
 </application>
