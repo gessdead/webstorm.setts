@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="GNUmakefile" type="Makefile" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="tgz" approved="true" type="7ZIP" />
